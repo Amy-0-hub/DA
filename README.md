@@ -14,7 +14,7 @@
 - **Description:** This project analyzes customer reviews of skincare products from Sephora to extract meaningful insights using natural language processing (NLP) and sentiment analysis.
 - **Tools:** Pandas, Numpy, Scikit-learn, NLTK, Matplotlib, Seaborn, WordCloud
 
-### AirBnb Trends 2020 to 2023 in the USA (Imcompleted, personal project)
+### AirBnb Trends 2020 to 2023 in the USA (Tableau)
 
 ## 🛠️ Skills Demonstrated
 
