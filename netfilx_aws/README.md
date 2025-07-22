@@ -34,6 +34,10 @@ This project analyzes Netflix's TV shows and movies using a serverless AWS data 
      - 3. **How have content ratings changed from 2014 to 2021?**
 
 4. **Visualization**:
+
    - Plotted bar charts and trend lines using Matplotlib
    - Showing the results
-     ![alt text](image-1.png) ![alt text](image-2.png) ![alt text](image.png)
+
+     ![alt text](image-1.png)
+     ![alt text](image-2.png)
+     ![alt text](image.png)
