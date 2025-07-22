@@ -35,4 +35,5 @@ This project analyzes Netflix's TV shows and movies using a serverless AWS data 
 
 4. **Visualization**:
    - Plotted bar charts and trend lines using Matplotlib
-   - Showing the results ![alt text](image-1.png) ![alt text](image-2.png) ![alt text](image.png)
+   - Showing the results
+     ![alt text](image-1.png) ![alt text](image-2.png) ![alt text](image.png)
